@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * swap - Swap two node on a Dlist.
+ * swap_nodes - Swap two node on a Dlist.
  * @list: head of the Dlist
  * @current: Current node
  * @previous: previous node
